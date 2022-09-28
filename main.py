@@ -1,4 +1,5 @@
 #Bryson Barney
-
-
-# Daxton Jergensen (#4)
+#Dane Collins
+#Andrew Gardanier
+#Sadie Eyre 
+#Daxton Jergensen
